@@ -4,7 +4,8 @@
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet consectetur adipiscing elit pellentesque habitant morbi. Tellus in hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Ac ut consequat semper viverra nam libero justo laoreet. Eget lorem dolor sed viverra ipsum nunc aliquet bibendum. Rhoncus urna neque viverra justo nec ultrices dui sapien eget. Tincidunt praesent semper feugiat nibh sed pulvinar. Nulla at volutpat diam ut venenatis tellus in metus vulputate. Magnis dis parturient montes nascetur ridiculus. Donec et odio pellentesque diam volutpat commodo sed. Semper viverra nam libero justo laoreet sit amet cursus. In mollis nunc sed id semper. Non nisi est sit amet facilisis magna etiam tempor."
     },
     "about": {
-        "text": "Comenius wants to make students' lives easier. So we created a place with ALL school stuff (e.g. timetable). And the best part: nothing costs! Not for the school and not for the student. Sounds good, doesn't it?",
+        "title": "About",
+        "subtitle": "Comenius wants to make students' lives easier. So we created a place with ALL school stuff (e.g. timetable). And the best part: nothing costs! Not for the school and not for the student. Sounds good, doesn't it?",
         "comment": "Pssst: btw. Comenius comes from John Amos Comenius ;)"
     },
     "faq": {
