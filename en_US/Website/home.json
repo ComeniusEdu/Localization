@@ -1,0 +1,37 @@
+{
+    "header": {
+        "title": "All school stuff. At one place.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet consectetur adipiscing elit pellentesque habitant morbi. Tellus in hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Ac ut consequat semper viverra nam libero justo laoreet. Eget lorem dolor sed viverra ipsum nunc aliquet bibendum. Rhoncus urna neque viverra justo nec ultrices dui sapien eget. Tincidunt praesent semper feugiat nibh sed pulvinar. Nulla at volutpat diam ut venenatis tellus in metus vulputate. Magnis dis parturient montes nascetur ridiculus. Donec et odio pellentesque diam volutpat commodo sed. Semper viverra nam libero justo laoreet sit amet cursus. In mollis nunc sed id semper. Non nisi est sit amet facilisis magna etiam tempor."
+    },
+    "about": {
+        "text": "Comenius wants to make students' lives easier. So we created a place with ALL school stuff (e.g. timetable). And the best part: nothing costs! Not for the school and not for the student. Sounds good, doesn't it?",
+        "comment": "Pssst: btw. Comenius comes from John Amos Comenius ;)"
+    },
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "cost": {
+            "q": "Does Comenius cost anything?",
+            "a": "No, Comenius is completely free!"
+        },
+        "shoulduse": {
+            "q": "Why should I use Comenius?",
+            "a": "Well, we try to make your day easier and create a better school-life balance. Your health is important for everything!"
+        },
+        "howworks": {
+            "q": "How works Comenius?",
+            "a": "We have many exercises for you, a timetable, a homework sorter and many more features. With these things, you can train your skills and make a good school-life balance!"
+        },
+        "howtouse": {
+            "q": "How can I use Comenius?",
+            "a": "Currently we're developing all the features. It may take a while until we are ready :("
+        },
+        "age": {
+            "q": "Is there a minimum age?",
+            "a": "No, you can use it if you're a student! No matter how old you are."
+        }
+    },
+    "employees": {
+        "title": "Employees",
+        "description": "All of our employees are volunteers. To pay respect to them, we have listed them here!"
+    }
+}

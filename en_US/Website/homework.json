@@ -1,0 +1,9 @@
+{
+    "title": "Download Homework",
+    "filesize": "Filesize",
+    "filetype": "Filetype",
+    "buttons": {
+        "home": "Home",
+        "download": "Download"
+    }
+}
