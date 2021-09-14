@@ -1,0 +1,11 @@
+{
+    "title": "Login",
+    "email": "E-Mail",
+    "password": "Password",
+    "rememberme": "Stay logged in for 30 days",
+    "submit": "Submit",
+    "msg": {
+      "notactivated": "Your account is currently not activated",
+      "notcorrect": "Password or e-mail is not correct"
+    }
+}

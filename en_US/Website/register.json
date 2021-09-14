@@ -1,0 +1,14 @@
+{
+    "title": "Register",
+    "username": "Username",
+    "email": "E-Mail",
+    "password": "Password",
+    "repeatpassword": "Repeat password",
+    "submit": "Submit",
+    "msg": {
+      "success": "Successfully registered. Please login now.",
+      "passwordrepeat": "Passwords do not match",
+      "emailinuse": "This e-mail is already in use",
+      "usernameinuse": "This username is already in use"
+    }
+}

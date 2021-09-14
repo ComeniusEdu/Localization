@@ -1,0 +1,20 @@
+{
+    "title": "Account activation",
+    "email": "E-Mail",
+    "code": "Code",
+    "submit": "Submit",
+    "resend": "Resend code",
+    "msg": {
+      "success": "Your account was successfully activated",
+      "notyouraccount": "You can only activate your own account",
+      "alreadyactivated": "Your account is already activated",
+      "codeemailmatch": "The code and the email does not match",
+      "resendsuccess": "The e-mail was sent successfully. You can request a new e-mail on the following date: ",
+      "resenddate": "You can request a new email on the following date: "
+    },
+    "email": {
+      "subject": "Account activation required",
+      "msg": "Click on the following link, to activate your account: %link%",
+      "footersupport": "If you have not registered, please contact our %link%"
+    }
+}
