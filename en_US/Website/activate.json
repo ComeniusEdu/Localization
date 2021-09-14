@@ -1,6 +1,6 @@
 {
     "title": "Account activation",
-    "email": "E-Mail",
+    "emaili": "E-Mail",
     "code": "Code",
     "submit": "Submit",
     "resend": "Resend code",
