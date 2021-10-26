@@ -1,0 +1,9 @@
+{
+  "title": "Upload Homework",
+  "input": {
+    "name": {
+      "title": "Homework name",
+      "placeholder": "e.g. Science things"
+    }
+  }
+}
